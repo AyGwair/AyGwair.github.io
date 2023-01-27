@@ -2,7 +2,7 @@
 title: Mon super site
 ---
 
-Introduction
+## Introduction
 
 Ma super intro.
 

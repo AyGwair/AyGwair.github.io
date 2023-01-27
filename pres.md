@@ -2,7 +2,7 @@
 title: Mon super site
 ---
 
-Présentation
+## Présentation
 
 Ma super présentation.
 

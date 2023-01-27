@@ -2,6 +2,6 @@
 title: Mon super site
 ---
 
-[Introduction](intro.md)
-[Présentation](pres.md)
+- [Introduction](intro.md)
+- [Présentation](pres.md)
 
